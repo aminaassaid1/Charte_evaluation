@@ -1,13 +1,12 @@
 # Charte d'évaluation
 
-
 ## Manque de points - :
 
- - En cas d'absence, surtout les lundi, mercredi et vendredi.
+- En cas d'absence, surtout les lundis, mercredis et vendredis.
+- Non-engagement de l'ordre de Backlog.
 
 ## Augmenter les points + :
 
-- Fait une présentation.
-
+- Réalise une présentation.
 - Effectue du live coding.
 
