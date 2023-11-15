@@ -10,3 +10,5 @@
 
 - Réalisation d'une présentation.
 - Pratique du live coding.
+- Accomplissement des tâche critique.
+
