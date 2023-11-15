@@ -3,7 +3,7 @@
 
 ## Manque de points - :
 
- - En cas d'absence, surtout les lundis, mercredis et vendredis.
+ - En cas d'absence, surtout les lundi, mercredi et vendredi.
 
 ## Augmenter les points + :
 
