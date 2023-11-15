@@ -2,11 +2,11 @@
 
 ## Manque de points - :
 
-- En cas d'absence, surtout les lundis, mercredis et vendredis.
-- Non-engagement de l'ordre de Backlog.
+- Absences fréquentes, notamment les lundis, mercredis et vendredis.
+- Non-engagement dans l'ordre du Backlog.
+- Repository GitHub non organisé.
 
-## Augmenter les points + :
+## Augmentation des points + :
 
-- Réalise une présentation.
-- Effectue du live coding.
-
+- Réalisation d'une présentation.
+- Pratique du live coding.
