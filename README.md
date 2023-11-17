@@ -1,14 +1,25 @@
 # Charte d'évaluation
 
-## Manque de points - :
+## Introductions :
+- Productivité 
 
-- Absences fréquentes, notamment les lundis, mercredis et vendredis.
-- Non-engagement dans l'ordre du Backlog.
-- Repository GitHub non organisé.
+## Régles de Validations:
 
-## Augmentation des points + :
+- Absences 
+    - Séance 1 : lundi .
+    - mercredi .
+    - Séance 1,3 : vendredi .
+- Planifications incorrecte : 
+- Espace de travail non organisé :
 
-- Réalisation d'une présentation.
-- Pratique du live coding.
-- Accomplissement des tâche critique.
+## Motivations :
+
+- Réalisation d'une veille.
+- Un live coding.
+- Présentation d'une branche :
+    - Branche fonctionnel .
+    - Branche technique .
+    - Phase conception .
+- Ajouter un point pour chaque ```cinq``` tache sans remarques .
+
 
